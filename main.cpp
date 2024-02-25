@@ -1,5 +1,4 @@
 #include <iostream>
-#include <limits>
 using namespace std;
 
 int firstTask() {
@@ -58,6 +57,6 @@ cout << "Largest negative: " << largestNegative << endl;
 }
 
 int main() {
-//  firstTask();
-//  secondTask();
+firstTask();
+secondTask();
 }
